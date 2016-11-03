@@ -15,10 +15,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".DisplayMessageActivity">
-
-        </activity>
-
+        <activity android:name=".ListaCursos" />
+        <activity android:name=".ListaCursosActivity" />
+        <activity android:name=".DetalhesCursoActivity" />
+        <activity android:name=".Cursos"></activity>
     </application>
 
 </manifest>

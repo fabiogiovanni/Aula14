@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         btLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this,DisplayMessageActivity.class);
+                Intent intent = new Intent(MainActivity.this,Cursos.class);
                 startActivity(intent);
             }
         });

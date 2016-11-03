@@ -3,4 +3,7 @@
     <string name="campoLogin">Usuario</string>
     <string name="campoSenha">Senha</string>
     <string name="button_login">Login</string>
+    <string name="busca_curso">nome do curso</string>
+    <string name="nome_cursos">" Digite o nome do Curso"</string>
+    <string name="button_busca">Buscar</string>
 </resources>

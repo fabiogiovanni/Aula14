@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"0
+    android:orientation="vertical"
     tools:context="com.example.giova.arqdesis.MainActivity"
     android:weightSum="1">
     <EditText
@@ -23,8 +23,6 @@
         android:layout_height="wrap_content"
         android:text="@string/button_login"
         android:onClick="button_login"/>
-
-
 </LinearLayout>
 
 
